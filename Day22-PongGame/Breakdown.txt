@@ -1,0 +1,7 @@
+create screen
+create and move paddle X 2
+create the ball and make it move
+Detect collision with wall and bounce
+Detect collision with paddle
+Detect when paddle misses
+keep score
